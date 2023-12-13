@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Costumbres-Navide-a/static/css/main.bdd0666f.css",
+    "main.js": "/Costumbres-Navide-a/static/js/main.87b3ea9b.js",
+    "static/media/fondo.jpg": "/Costumbres-Navide-a/static/media/fondo.bbbf75c1b8d08d81cf2e.jpg",
+    "static/media/luces.png": "/Costumbres-Navide-a/static/media/luces.c3f474b2351aaaa4cc6d.png",
+    "static/media/Logo.jpg": "/Costumbres-Navide-a/static/media/Logo.016e87007d051f30545e.jpg",
+    "static/media/velitas.jpg": "/Costumbres-Navide-a/static/media/velitas.ea1261e6bc8f0bfbde5a.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/Costumbres-Navide-a/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Costumbres-Navide-a/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Costumbres-Navide-a/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/kfc.jpg": "/Costumbres-Navide-a/static/media/kfc.17a2a3e317af83dfb4a1.jpg",
+    "static/media/jovenes.jpg": "/Costumbres-Navide-a/static/media/jovenes.15b0e971fc13f438aa6b.jpg",
+    "static/media/krampus.jpg": "/Costumbres-Navide-a/static/media/krampus.ab1ecbbb0f0a9bb1b6c6.jpg",
+    "static/media/cabra.jpg": "/Costumbres-Navide-a/static/media/cabra.fb209df2e4575e4d5bd5.jpg",
+    "static/media/Logo.png": "/Costumbres-Navide-a/static/media/Logo.2b77b4a0639502cb6783.png",
+    "static/media/farolillos.jpeg": "/Costumbres-Navide-a/static/media/farolillos.84f5bdb719e91946e447.jpeg",
+    "index.html": "/Costumbres-Navide-a/index.html",
+    "main.bdd0666f.css.map": "/Costumbres-Navide-a/static/css/main.bdd0666f.css.map",
+    "main.87b3ea9b.js.map": "/Costumbres-Navide-a/static/js/main.87b3ea9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdd0666f.css",
+    "static/js/main.87b3ea9b.js"
+  ]
+}
